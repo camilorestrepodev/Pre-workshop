@@ -1,4 +1,6 @@
-##EJERCICIO PRE-WORKSHOP PROGRAMACION ORIENTADA A OBJECTOSEl hospital MAKAIA busca automatizar el comportamiento para un usuario que desea agendar una cita médica. Un usuario está representado en nuestro negocio por los siguientes atributos:
+# EJERCICIO PRE-WORKSHOP PROGRAMACION ORIENTADA A OBJECTOS
+
+El hospital MAKAIA busca automatizar el comportamiento para un usuario que desea agendar una cita médica. Un usuario está representado en nuestro negocio por los siguientes atributos:
 •Nombre 
 •Apellido 
 •Cedula 
